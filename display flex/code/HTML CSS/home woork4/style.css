@@ -1,0 +1,83 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.hamash{
+    display: flex;
+    margin-top: 0px;
+}
+.surat{
+    display: flex;
+}
+.sar{
+    margin-left: 25px;
+}
+.mon{
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+.back{
+    margin-top: 30px;
+}
+.login{
+  font-size: 21px;
+  margin-left: 5px;
+}
+.color{
+    font-size: 25px;
+}
+input[type="username  or email address"] {
+    width: 340px;
+    height: 5vh;
+    font-size: 21px;
+    padding: 10px 10px;
+    border-radius: 7px;
+    background-color:white;
+    color: black;
+    border: 2px solid rgb(214, 207, 207);
+}
+   
+input[type="password"] {
+    width: 340px;
+    height: 5vh;
+    font-size: 21px;
+    padding: 10px 10px;
+    border-radius: 7px;
+    background-color:white;
+    color: black;
+    border: 2px solid rgb(214, 207, 207);
+}
+.tex{
+    display: flex;
+    font-size: 21px;
+    color: rgb(101, 100, 100);
+}
+ 
+.forget{
+    margin-left: 73px;
+}
+button{
+  padding: 11px 35px;
+  font-size: 18px;
+  background-color: black;
+  color: white;
+}
+.now{
+    font-size: 21px;
+    margin-left: 127px;
+    margin-top: 27px;
+    color: rgb(101, 100, 100);
+    
+}
+.log{
+    display: flex;
+}
+.rea{
+    font-size: 75px;
+   margin-left: 445px;
+   margin-top: 40px;
+}
+.sur{
+    width: 65%;
+    height: 80px;
+}

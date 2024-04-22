@@ -1,0 +1,53 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.div{
+    display: flex;
+    margin-top: 20px;
+
+}
+
+.navbar{
+    display: flex;
+    margin-left: 900px;
+    gap: 60px;
+    font-size: 19px;
+    list-style: none;
+}
+.torff{
+    margin-left: 120px;
+}
+.nils{
+    margin-top: 170px;
+    margin-left: -1300px;
+}
+.p{
+    font-size: 21px;
+    color: rgb(104, 106, 108);
+}
+
+.surat{
+    margin-top: 70px;
+    margin-left: 300px;
+   
+}
+button{
+  padding: 8px 17px;
+  background-color: rgb(196, 196, 17);
+  border: none;
+   cursor: pointer;
+   border-radius: 7px;
+}
+.brends{
+    margin-left: 700px;
+    margin-top: -20px;
+    font-size: 50px;
+   
+}
+.oxir{
+    font-size: 15px;
+    margin-left: 720px;
+    margin-top: 10px;
+}
+

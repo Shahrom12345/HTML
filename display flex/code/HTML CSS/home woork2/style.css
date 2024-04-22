@@ -1,0 +1,77 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.rang{
+    background-color: blue;
+    width: 100%;
+    height: 700px;
+    color: white;
+   
+}
+.hamash{
+   margin-left: 600px;
+   
+}
+.end{
+    margin-left: 50px;
+    font-size: 15px;
+}
+.login{
+    margin-left: 140px;
+}
+input[type="username or e-mail"] {
+    width: 340px;
+    height: 5vh;
+    font-size: 20px;
+    padding: 0px 10px;
+    border-radius: 7px;
+    background-color:blue;
+    color: white;
+    border: 2px solid white;
+}
+input[type="password"] {
+    width: 340px;
+    height: 5vh;
+    font-size: 20px;
+    padding: 0px 10px;
+    border-radius: 7px;
+    background-color: blue;
+    color: white;
+    border: 2px solid white;
+}
+.Forget{
+    margin-left: 245px;
+}
+.button1{
+    padding: 11px 165px;
+    background-color: blue;
+    color:green;
+    border-radius: 7px;
+    font-size: 13.5px;
+    border:2px solid green;
+    cursor: pointer;
+}
+.button2{
+    padding: 11px 110px;
+    background-color:black;
+    color:white;
+    border-radius: 7px;
+    font-size: 13.5px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+.color input::placeholder{
+   background-color: blue;
+    color: white;
+}
+h3 {
+    margin-left: 70px;
+    
+}
+h3 span{
+    
+    color: green;
+}
